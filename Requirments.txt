@@ -1,0 +1,14 @@
+Streamlit
+python-dotenv
+LangChain
+Chroma
+langchain_chroma
+pypdf
+langchain-community
+langchain_text_splitters
+langchain_huggingface
+langchain_groq
+pydantic>=2.0.0
+requests>=2.31.0
+sentence-transformers
+
